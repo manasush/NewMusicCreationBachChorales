@@ -1,7 +1,7 @@
 # New Music Creation From Bach Chorales
 Using the dataset containing 382 chorales by Johann Sebastian Bach and generating new music
 
-
+# Due to Big file size the ipynb file is written below . please scroll down
 
 
 Dataset contains 382 chorales by Johann Sebastian Bach (in the public domain), where each chorale is composed of 100 to 640 chords with a temporal resolution of 1/16th (ie each chorale is 100 to 640 sixteenth-notes long). Each chord has four notes, composed of 4 integers, each indicating the index of a note on a piano, except for the value 0 which means "no note played."
